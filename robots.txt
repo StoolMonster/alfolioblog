@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://stoolmonster.github.io/alfolioblog//sitemap.xml
+Sitemap: https://stoolmonster.github.io//sitemap.xml
